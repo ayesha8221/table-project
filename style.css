@@ -1,0 +1,54 @@
+table, th, td {
+    border: 3px solid black;
+    text-align: center;
+}
+
+table, th, td{
+    border: 3px solid black;
+}
+
+table {
+    width: 100%;
+}
+.table {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black
+}
+
+th{
+    height: 50px;
+}
+.mo21 {
+    background-color: black;
+    color: white;
+}
+
+.mu21 {
+    background-color: grey;
+}
+
+.fu21 {
+    background-color: red;
+}
+
+.fo21 {
+    background-color: pink;
+}
+
+.males {
+    list-style: none;
+    padding: 10px 30px;
+    background-image: url(./male\ sign.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px;
+}
+
+.females {
+    list-style: none;
+    padding: 10px 30px;
+    background-image: url(./female\ sign.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px; 
+}
